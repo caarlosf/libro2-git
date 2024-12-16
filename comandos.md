@@ -549,9 +549,10 @@
     ```
 
 
-1. ### 
+1. ### Como non aparecen todos os cartafoles vou ó primeiro cartafol e fago un commit dende el
     ```
-
+    git add .
+    git commit -m "todo"
     ```
 
 
