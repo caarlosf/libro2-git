@@ -533,7 +533,7 @@
     ```
 
 
-1. ### Subimos o contido ó remoto con `git push -u origin master`
+1. ### Subimos o contido ó remoto con `git push -u origin master` (-u "set upstream" configuración automatica da rama remota simplificando futuros push e pull, ampliar info)
     ```
     git push -u origin master
     Enumerando objetos: 38, listo.
@@ -556,9 +556,11 @@
     ```
 
 
-1. ### 
+1. ### Para decargar o contido dun remoto fundamental seguri estes paso
     ```
-
+    1.git init (no novo cartafol creado) 
+    2.git remote add origin url_github
+    3.git pull origin master
     ```
 
 
