@@ -561,6 +561,7 @@
     1.git init (no novo cartafol creado) 
     2.git remote add origin url_github
     3.git pull origin master
+    
     ```
 
 
